@@ -1,0 +1,3 @@
+algo,n,time_ns,depth,comps
+MergeSort,1000,212075,7,9530
+QuickSort,1000,159958,22,11265
